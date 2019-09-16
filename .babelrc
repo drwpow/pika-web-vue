@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    [
+      "transform-rename-import",
+      {
+        "replacements": [
+          {
+            "original": "/web_modules/vue.js",
+            "replacement": "/web_modules/vue/dist/vue.esm.browser.js"
+          }
+        ]
+      }
+    ]
+  ]
+}
