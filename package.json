@@ -15,8 +15,8 @@
   },
   "@pika/web": {
     "webDependencies": [
-      "vue-router",
-      "vue/dist/vue.esm.browser.js"
+      "vue/dist/vue.esm.browser.js",
+      "vue-router"
     ]
   },
   "dependencies": {
@@ -31,7 +31,6 @@
     "@typescript-eslint/parser": "^2.3.3",
     "@vue/babel-preset-app": "^3.11.0",
     "babel-plugin-transform-rename-import": "^2.3.0",
-    "babel-preset-vue": "^2.0.2",
     "concurrently": "^5.0.0",
     "copyfiles": "^2.1.1",
     "eslint": "^6.5.1",

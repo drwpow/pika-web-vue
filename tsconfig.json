@@ -6,7 +6,6 @@
     "forceConsistentCasingInFileNames": true,
     "lib": ["dom", "esnext"],
     "jsx": "preserve",
-    "jsxFactory": "h",
     "module": "esnext",
     "moduleResolution": "node",
     "noImplicitAny": true,
