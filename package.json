@@ -27,7 +27,7 @@
     "@babel/cli": "^7.6.3",
     "@babel/core": "^7.6.3",
     "@pika/web": "^0.6.1",
-    "@typescript-eslint/eslint-plugin": "^2.3.3",
+    "@typescript-eslint/eslint-plugin": "^2.34.0",
     "@typescript-eslint/parser": "^2.3.3",
     "@vue/babel-preset-app": "^3.11.0",
     "babel-plugin-transform-rename-import": "^2.3.0",
